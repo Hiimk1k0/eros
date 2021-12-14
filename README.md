@@ -5,4 +5,6 @@ Trabalho realizado por:
   Gonçalo Rodrigues
   Guilherme Nunes
   Francisco Gaio
-  omegalul
+  
+  
+  a tua mae
