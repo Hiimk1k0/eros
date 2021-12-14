@@ -8,3 +8,11 @@ Trabalho realizado por:
   
   
   a tua mae
+  int idadeRapariga;
+  
+  if(idadeRapariga < 25 anos){
+  like;
+  }
+  else{
+  pass;
+  }
